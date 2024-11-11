@@ -11,7 +11,7 @@ I am dedicated to transitioning into a security-focused role where I can leverag
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Scanner Deployment    | <a href="https://google.com">Nessus Vulnerability Scanning</a>|
+| Vulnerability Scanner Deployment    | <a href="https://github.com/cybersecayaz/Nessus-Vulnerability-Scanning/tree/main">Nessus Vulnerability Scanning</a>|
 | Cloud Security & Identity Management          | <a href="https://google.com">Password Manager Hosted in Cloud</a>|
 | Intrusion Detection and Deception Technology | <a href="https://google.com">HoneyPot Hosted in Cloud</a>|
 | SIEM Implementation and Log Analysis         | <a href="https://google.com">Microsoft Sentinel SIEM</a>|
@@ -62,7 +62,7 @@ I am dedicated to transitioning into a security-focused role where I can leverag
 </div>
 
 ## Projects
-- Vulnerability Scanner (Nessus) Deployment
+- <a href="https://github.com/cybersecayaz/Nessus-Vulnerability-Scanning/tree/main">Nessus Vulnerability (Nessus) Scanning</a>
 - Password Manager hosted in Cloud
 - HoneyPot Hosted in Cloud
 - Microsoft Sentinel SIEM
