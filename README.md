@@ -12,10 +12,9 @@ I am dedicated to transitioning into a security-focused role where I can leverag
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Scanner Deployment    | <a href="https://github.com/cybersecayaz/Nessus-Vulnerability-Scanning/tree/main">Nessus Vulnerability Scanning</a>|
-| Cloud Security & Identity Management          | <a href="https://google.com">Password Manager Hosted in Cloud</a>|
-| Intrusion Detection and Deception Technology | <a href="https://google.com">HoneyPot Hosted in Cloud</a>|
-| SIEM Implementation and Log Analysis         | <a href="https://google.com">Microsoft Sentinel SIEM</a>|
-| Security Automation and AI Integration      | <a href="https://google.com">SIEM Integration with AI </a>|
+| Intrusion Detection and Deception Technology | <a href="https://github.com/cybersecayaz/Honeypot-Hosted-in-Azure">HoneyPot Hosted in Cloud</a>|
+| SIEM Implementation and Log Analysis         | Microsoft Sentinel SIEM |
+| Security Automation and AI Integration       | SIEM Integration with AI |
 
 
 ## Tools
@@ -63,7 +62,6 @@ I am dedicated to transitioning into a security-focused role where I can leverag
 
 ## Projects
 - <a href="https://github.com/cybersecayaz/Nessus-Vulnerability-Scanning/tree/main">Nessus Vulnerability (Nessus) Scanning</a>
-- Password Manager hosted in Cloud
-- HoneyPot Hosted in Cloud
+- <a href="https://github.com/cybersecayaz/Honeypot-Hosted-in-Azure">HoneyPot Hosted in Cloud</a>
 - Microsoft Sentinel SIEM
 - SIEM Integration with Artifical Intellegence
