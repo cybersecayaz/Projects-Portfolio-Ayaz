@@ -12,7 +12,6 @@ I am dedicated to transitioning into a security-focused role where I can leverag
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis         | <a href="https://github.com/cybersecayaz/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM</a>  |
-| Security Automation and AI Integration       | SIEM Integration with AI |
 | Intrusion Detection and Deception Technology | <a href="https://github.com/cybersecayaz/Honeypot-Hosted-in-Azure">HoneyPot Hosted in Cloud</a>|
 | Vulnerability Scanner Deployment    | <a href="https://github.com/cybersecayaz/Nessus-Vulnerability-Scanning/tree/main">Nessus Vulnerability Scanning</a>|
 
@@ -64,7 +63,6 @@ I am dedicated to transitioning into a security-focused role where I can leverag
 
 ## Projects
 - <a href="https://github.com/cybersecayaz/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM</a>
-- SIEM Integration with Artifical Intellegence
 - <a href="https://github.com/cybersecayaz/Honeypot-Hosted-in-Azure">HoneyPot Hosted in Cloud</a>
 - <a href="https://github.com/cybersecayaz/Nessus-Vulnerability-Scanning/tree/main">Nessus Vulnerability (Nessus) Scanning</a>
 
