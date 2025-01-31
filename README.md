@@ -11,9 +11,10 @@ As a solutions-oriented Cyber Security Engineer, I specialize in securing cloud 
 
 | Project Name                                 | Associated Project Repository|
 |----------------------------------------------|----------------------------|
+| AWS Automation                               | <a href="https://github.com/cybersecayaz/DevSecOps-Shift-Left-Project-.git">AWS Automation</a>  |
 | Infrastructure as Code (IaC) Scanning        | <a href="https://github.com/cybersecayaz/DevSecOps-Shift-Left-Project-.git">Infrastructure as Code (IaC) Scanning</a>  |
 | Static Application Security Testing (SAST)   | <a href="https://github.com/cybersecayaz/DevSecOps-Shift-Left-Project-.git">Static Application Security Testing (SAST)</a>  |
-| Software Composition Analysis (SCA)          | <a href="https://github.com/cybersecayaz/DevSecOps-Shift-Left-Project-.git">Software Composition Analysis (SCA)  |
+| Threat Modelling Workshop                    | <a href="https://github.com/cybersecayaz/Threat-Modelling-Project.git">Threat Modelling Workshop  |
 | SIEM Implementation and Log Analysis         | <a href="https://github.com/cybersecayaz/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM</a>  |
 | Intrusion Detection and Deception Technology | <a href="https://github.com/cybersecayaz/Honeypot-Hosted-in-Azure">HoneyPot Hosted in Cloud</a>|
 | Vulnerability Scanner Deployment             | <a href="https://github.com/cybersecayaz/Nessus-Vulnerability-Scanning/tree/main">Nessus Vulnerability Scanning</a>|
@@ -71,9 +72,10 @@ As a solutions-oriented Cyber Security Engineer, I specialize in securing cloud 
 </div>
 
 ## Projects
+- <a href="https://github.com/cybersecayaz/DevSecOps-Shift-Left-Project-.git">AWS Automation</a>
 - <a href="https://github.com/cybersecayaz/DevSecOps-Shift-Left-Project-.git">Infrastructure as Code (IaC) Scanning</a>
 - <a href="https://github.com/cybersecayaz/DevSecOps-Shift-Left-Project-.git">Static Application Security Testing (SAST)</a>
-- <a href="https://github.com/cybersecayaz/DevSecOps-Shift-Left-Project-.git">Software Composition Analysis (SCA)</a>
+- <a href="https://github.com/cybersecayaz/Threat-Modelling-Project.git">Threat Modelling Workshop</a>
 - <a href="https://github.com/cybersecayaz/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM</a>
 - <a href="https://github.com/cybersecayaz/Honeypot-Hosted-in-Azure">HoneyPot Hosted in Cloud</a>
 - <a href="https://github.com/cybersecayaz/Nessus-Vulnerability-Scanning/tree/main">Nessus Vulnerability (Nessus) Scanning</a>
